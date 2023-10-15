@@ -1,8 +1,8 @@
-<img src="https://camo.githubusercontent.com/4d37e9f427d61b9481442abe6ca8f2a342f09fbe6ed561119ab91fa67a55658b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966">
+<img src="https://img.freepik.com/premium-vector/hacker-vector-banner_36298-52.jpg?w=1380">
 
 <h1 align="center">Hi 👋, I'm Surya</h1>
 <h3 align="center">A passionate Hacker from India</h3>
-<img align ="right" alt = "Coding" width="400" src = "https://blog.zohowebstatic.com/sites/zblogs/images/cliq/new-converted-2019-08.gif">
+<img align ="right" alt = "Coding" width="400" src = "https://camo.githubusercontent.com/4d37e9f427d61b9481442abe6ca8f2a342f09fbe6ed561119ab91fa67a55658b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyingculprit&label=Profile%20views&color=0e75b6&style=flat" alt="flyingculprit" /> </p>
 
