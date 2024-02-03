@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Bug Bounting**
 
-- 💬 Ask me about **Ethical Hacking, fullstack**
+- 💬 Ask me about **Hacking, Web Engineering**
 
 - 📫 How to reach me **suryan2021ai@gmail.com**
 
