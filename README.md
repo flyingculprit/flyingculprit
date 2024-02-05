@@ -1,7 +1,7 @@
 <img src="https://img.freepik.com/premium-vector/hacker-vector-banner_36298-52.jpg?w=1380">
 
 <h1 align="center">Hi 👋, I'm Surya</h1>
-<h3 align="center">A passionate Hacker from India</h3>
+<h3 align="center">A passionate Engineer from India</h3>
 <img align ="right" alt = "Coding" width="400" src = "https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyingculprit&label=Profile%20views&color=0e75b6&style=flat" alt="flyingculprit" /> </p>
